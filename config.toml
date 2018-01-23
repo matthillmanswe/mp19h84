@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HUGO SKELETON SITE"
+theme="skeletontheme"
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+MetaDataFormat = "toml"
+[taxonomies]
+    tag = "tags"
